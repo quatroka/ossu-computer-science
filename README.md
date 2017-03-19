@@ -1,9 +1,11 @@
 # ossu-computer-science
 My notes on oss computer science curriculum.
 
- My [board](https://trello.com/b/Vg2XHdal/my-oss-computer-science) on Trello with all my path.
+I'm using [OSSU - Computer Science v6.0](https://github.com/open-source-society/computer-science)
 
- [Blog](https://quatroka.github.io/) with all extra notes written during the courses in post format.
+My [board](https://trello.com/b/Vg2XHdal/my-oss-computer-science) on Trello with all my path.
+
+[Blog](https://quatroka.github.io/) with all extra notes written during the courses in post format.
 
 Current:
 
