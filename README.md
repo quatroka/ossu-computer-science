@@ -1,4 +1,7 @@
 # ossu-computer-science
+
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/open-source-society/computer-science)
+
 My notes on oss computer science curriculum.
 
 I'm using [OSSU - Computer Science v6.0](https://github.com/open-source-society/computer-science)
