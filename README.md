@@ -10,7 +10,7 @@ My [board](https://trello.com/b/Vg2XHdal/my-oss-computer-science) on Trello with
 
 [Blog](https://quatroka.github.io/) with all extra notes written during the courses in post format.
 
-Current:
+Current (Temporary pause for 3 months 04/07/17) :
 
 | Course                                                                                                      | Started    |
 | ----------------------------------------------------------------------------------------------------------- | ---------- |
