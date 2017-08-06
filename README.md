@@ -14,6 +14,6 @@ My [board](https://trello.com/b/yg3QEEJS/ossu-computer-science-curriculum-v7) on
 
 Current:
 
-|                                                   Course                                                    |  Started   | Repository |
-| ----------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
-| [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | 03/20/2017 | Link       |
+|                                                   Course                                                    |  Started   |                                                                              Repository                                                                              |
+| ----------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | 03/20/2017 | [Repository](https://github.com/quatroka/ossu-computer-science/tree/master/Introduction%20to%20Computer%20Science/Introduction%20to%20Computer%20Science%20-%20CS50) |
